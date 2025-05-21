@@ -152,25 +152,8 @@ import dht            # Sensor DHT22/DHT11
 4. Push a la rama
 5. Crear Pull Request
 
-## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detalles.
-
-## 🆘 Soporte
-
-- 📧 **Email**: soporte@proyecto.com
-- 💬 **Discord**: [Servidor del Proyecto]
-- 📖 **Wiki**: [Documentación Extendida]
-- 🐛 **Issues**: [GitHub Issues]
-
-## 🎯 Roadmap
-
-### Próximas Actualizaciones:
-- [ ] Proyectos con ESP32
-- [ ] Integración con servicios cloud
-- [ ] Aplicación móvil companion
-- [ ] Tutoriales en video
-- [ ] Versiones en otros lenguajes
+#
 
 ---
 

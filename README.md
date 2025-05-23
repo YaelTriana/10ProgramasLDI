@@ -4,12 +4,18 @@ Esta colección presenta 10 proyectos completos desarrollados para **Raspberry P
 
 ## 📋 Índice de Proyectos
 
-| # | Proyecto | Componentes | Dificultad | Descripción |
-|---|----------|-------------|------------|-------------|
-| 1 | [Keypad ASCII Art Display](#1-keypad-ascii-art-display) | Keypad 4x4, OLED | 🟢 Básico | Muestra arte ASCII al presionar teclas |
-| 2 | [Calculadora Simple](#2-calculadora-simple) | Keypad 4x4, OLED | 🟡 Intermedio | Calculadora con operaciones básicas |
-| 3 | [Juego de Memoria](#3-juego-de-memoria) | Keypad 4x4, OLED | 🟡 Intermedio | Memoriza y repite secuencias |
 
+| #  | Proyecto                 | Componentes            | Dificultad    | Descripción                                   |
+| -- | ------------------------ | ---------------------- | ------------- | --------------------------------------------- |
+| 1  | Keypad ASCII Art Display | Keypad 4x4, OLED       | 🟢 Básico     | Muestra arte ASCII al presionar teclas        |
+| 2  | Calculadora Simple       | Keypad 4x4, OLED       | 🟡 Intermedio | Calculadora con operaciones básicas           |
+| 3  | Juego de Memoria         | Keypad 4x4, OLED       | 🟡 Intermedio | Memoriza y repite secuencias                  |
+| 4  | Alarma                   | Buzzer, RTC (reloj)    | 🟡 Intermedio | Alarma programable con señal sonora           |
+| 5  | Cronómetro               | Pantalla OLED, botones | 🟢 Básico     | Cronómetro con inicio, pausa y reset          |
+| 6  | Hola Mundo               | Pantalla OLED          | 🟢 Básico     | Muestra texto "Hola Mundo" en pantalla        |
+| 7  | Mini-piano               | Teclado, buzzer        | 🟢 Básico     | Mini piano con sonidos en buzzer              |
+| 8  | Prender LED              | LED, botón             | 🟢 Básico     | Enciende y apaga LED con botón                |
+| 9  | Temporizador Pantalla    | OLED, botones          | 🟡 Intermedio | Temporizador con cuenta regresiva en pantalla |
 
 ## 🔧 Configuración General
 
